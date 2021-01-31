@@ -709,7 +709,6 @@
   min-height: 444px;
   margin-top: 30px;
   margin-bottom: 30px;
-  height: auto;
 }
 
 .u-section-4 .u-carousel-indicators-1 {
@@ -802,13 +801,13 @@
 .u-section-4 .u-text-9 {
   font-size: 1.5rem;
   font-weight: 700;
-  margin: -251px 137px 0 690px;
+  margin: -293px 147px 0 680px;
 }
 
 .u-section-4 .u-text-10 {
   font-size: 1.125rem;
   font-weight: 300;
-  margin: 14px 30px 0 690px;
+  margin: 14px 40px 0 680px;
 }
 
 .u-section-4 .u-carousel-control-1 {
@@ -838,6 +837,7 @@
   .u-section-4 .u-slider-1 {
     min-height: 449px;
     margin-top: 0;
+    height: auto;
   }
 
   .u-section-4 .u-video-1 {
@@ -912,7 +912,7 @@
 
   .u-section-4 .u-text-9 {
     width: auto;
-    margin-top: -235px;
+    margin-top: -277px;
     margin-right: 50px;
     margin-left: 578px;
   }
@@ -1026,12 +1026,12 @@
   .u-section-4 .u-video-4 {
     width: 561px;
     height: 315px;
-    margin-top: 197px;
+    margin-top: 230px;
     margin-left: auto;
   }
 
   .u-section-4 .u-text-9 {
-    margin-top: -512px;
+    margin-top: -545px;
     margin-right: 428px;
     margin-left: 20px;
   }
@@ -1216,20 +1216,20 @@
 
   .u-section-4 .u-video-4 {
     height: 182px;
-    margin-top: 251px;
+    margin-top: 275px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
   }
 
   .u-section-4 .u-text-9 {
-    margin-top: -433px;
+    margin-top: -457px;
     margin-right: 108px;
   }
 
   .u-section-4 .u-text-10 {
     font-size: 1rem;
-    margin-top: 55px;
+    margin-top: 35px;
   }
 }.u-section-5 {
   background-image: url("images/colour3.jpg");
